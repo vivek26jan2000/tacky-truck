@@ -93,6 +93,7 @@ body {
 .events {
   background-color: aliceblue;
   text-align: center;
+  height: 190px;
 }
 
 .header {
@@ -111,7 +112,7 @@ body {
 }
 
 .events li {
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 
 /* news */
@@ -165,6 +166,10 @@ body {
   color: white;
   border: none;
   font-weight: 700;
+}
+
+.mission {
+  margin-left: 20px;
 }
 /* /////////////// */
 /* footer */
